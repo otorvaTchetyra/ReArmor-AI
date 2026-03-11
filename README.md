@@ -1,4 +1,4 @@
-# ReArmor — AI-Powered Stroke Rehabilitation Trainer
+# ReArmor AI — Powered Stroke Rehabilitation Trainer
 
 > Restoring neural connections between the brain and paretic hand through intelligent, adaptive electrostimulation.
 
